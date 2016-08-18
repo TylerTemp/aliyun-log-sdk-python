@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: aliyun-log
+Version: 0.6.2
+Summary: log service Python client SDK
+Home-page: http://www.aliyun.com/product/sls
+Author: sls_dev
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: Copyright (C) Alibaba Cloud Computing. All rights reserved.
